@@ -17,11 +17,12 @@ h3{
     color: #ff6f61;
     font-size: clamp(18px, 2.5vw, 28px);
     font-family: 'Playfair Display', serif;
-    font-weight: 300;
+    font-weight: 700;
 
 }
 
 p{
   font-size: clamp(14px, 2vw, 20px);
 }
+
 
