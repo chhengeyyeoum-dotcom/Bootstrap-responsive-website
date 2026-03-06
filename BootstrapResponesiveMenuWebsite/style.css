@@ -1,0 +1,23 @@
+body
+{
+    background-color: #ffead5;
+    margin: 0;
+    padding: 20px;
+
+}
+
+h1{
+    color: #ff6f61;
+    font-size: larger;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+h3{
+    color: #ff6f61;
+    font-size: larger;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 24px;
+}
